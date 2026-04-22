@@ -108,7 +108,7 @@ sudo ovs-ofctl dump-flows s1
 
 ## 5. Screenshots
 
-### Cnotroller Stratup
+### Controller Stratup
 
 ![Controller startup](screenshots/controller_startup.png)
 
